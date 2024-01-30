@@ -1,0 +1,7 @@
+//address of i
+#include<iostream>
+using namespace std;
+int main(){
+    int i;
+    cout<<&i<<endl;
+}
