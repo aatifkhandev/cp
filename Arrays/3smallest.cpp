@@ -2,7 +2,7 @@
 I/P : arr[]={10,20,4}
 O/P : 4  */
 
-#include<iostream>
+#include<bits/stdc++.h>
 #include<limits.h>
 using namespace std;
 
