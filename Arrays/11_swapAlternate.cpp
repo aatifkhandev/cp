@@ -1,5 +1,5 @@
 
-//swap
+//Swap Alternate
 #include<iostream>
 #include<climits>
 using namespace std;
