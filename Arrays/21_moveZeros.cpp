@@ -30,6 +30,9 @@ void moveZeros(int arr[], int n){
 
 }
 
+void moveZerosOptimized(int arr[] , int n){
+    
+}
 
 int main(){
 int arr[]={1,0,2,0,3,0,4,0,5,0};
