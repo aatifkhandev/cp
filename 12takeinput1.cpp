@@ -1,5 +1,5 @@
-//takeinput from inkled list
-//iskicomplexity zyada haai O(n^2)
+//takeinput from linkled list
+
 #include <iostream>
 using namespace std;
 class Node {

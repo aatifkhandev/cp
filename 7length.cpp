@@ -1,5 +1,5 @@
-//coding ninjas assignment 1 
-//length of linkd list
+
+//length of linked list
 #include <iostream>
 using namespace std;
 class Node
@@ -13,7 +13,7 @@ public:
 		this->next = NULL;
 	}
 };
-Node *takeinput()
+Node *takeInput()
 {
 	int data;
 	cin >> data;
@@ -53,7 +53,7 @@ int main()
 	cin >> t;
 	while (t--)
 	{
-		Node *head = takeinput();
+		Node *head = takeInput();
 		cout << length(head) << endl;
 	}
 	return 0;
